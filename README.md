@@ -20,7 +20,7 @@ Mon objectif est de développer des solutions data fiables, bien documentées et
 
 ---
 
-## 🛠 Compétences techniques
+##  Compétences techniques
 
 ###  Data Science & Machine Learning
 - Python (Pandas, NumPy, Scikit-learn)
